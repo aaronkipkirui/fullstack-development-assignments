@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin-left: 25%;
+    width: 50%;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
